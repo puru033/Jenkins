@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Deployed to qa environment"
+echo "Deployed to uat environment"
 
